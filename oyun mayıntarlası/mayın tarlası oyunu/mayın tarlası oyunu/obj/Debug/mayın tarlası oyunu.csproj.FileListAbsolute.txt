@@ -1,0 +1,7 @@
+C:\Users\tekin\source\repos\mayın tarlası oyunu\mayın tarlası oyunu\obj\Debug\mayın tarlası oyunu.csprojAssemblyReference.cache
+C:\Users\tekin\source\repos\mayın tarlası oyunu\mayın tarlası oyunu\obj\Debug\mayın tarlası oyunu.csproj.CoreCompileInputs.cache
+C:\Users\tekin\source\repos\mayın tarlası oyunu\mayın tarlası oyunu\bin\Debug\mayın tarlası oyunu.exe.config
+C:\Users\tekin\source\repos\mayın tarlası oyunu\mayın tarlası oyunu\bin\Debug\mayın tarlası oyunu.exe
+C:\Users\tekin\source\repos\mayın tarlası oyunu\mayın tarlası oyunu\bin\Debug\mayın tarlası oyunu.pdb
+C:\Users\tekin\source\repos\mayın tarlası oyunu\mayın tarlası oyunu\obj\Debug\mayın tarlası oyunu.exe
+C:\Users\tekin\source\repos\mayın tarlası oyunu\mayın tarlası oyunu\obj\Debug\mayın tarlası oyunu.pdb
